@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a75afa-6ee6-4095-a1a2-49201119d2b4" name="Changes" comment="Create SumCalculator, add Tests" />
+    <list default="true" id="62a75afa-6ee6-4095-a1a2-49201119d2b4" name="Changes" comment="delete .idea">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,7 +278,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707069416665</updated>
       <workItem from="1707069417768" duration="2786000" />
-      <workItem from="1707121600101" duration="641000" />
+      <workItem from="1707121600101" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="Create SumCalculator, add Tests">
       <option name="closed" value="true" />
@@ -302,7 +304,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707122088677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create SumCalculator, add Tests">
+      <option name="closed" value="true" />
+      <created>1707122278488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707122278488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete .idea">
+      <option name="closed" value="true" />
+      <created>1707122401560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707122401560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +339,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create SumCalculator, add Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create SumCalculator, add Tests" />
+    <MESSAGE value="delete .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete .idea" />
   </component>
 </project>
