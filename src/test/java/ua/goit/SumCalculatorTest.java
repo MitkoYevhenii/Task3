@@ -15,7 +15,7 @@ class SumCalculatorTest {
     @BeforeEach
     @DisplayName("Create sumCalculator test methods")
     void setUp() {
-        SumCalculator sumCalculator = new SumCalculator();
+        sumCalculator = new SumCalculator();
     }
 
     @Test
